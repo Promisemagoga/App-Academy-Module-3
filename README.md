@@ -1,2 +1,2 @@
 # module-3
-part of my school assessment
+Mtn App Academy assignment 
